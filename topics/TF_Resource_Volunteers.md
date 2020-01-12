@@ -247,7 +247,7 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [SFCTA Paper incorporating crowding](SFCTA_Paper_incorporating_crowding) | | | |
 | [TMIP Activity Based Model Webinar Series Instructor Manual](TMIP_Activity_Based_Model_Webinar_Series_Instructor_Manual) | | | |
 | [The Chicago Area Transportation Study: Creating the First Plan (1955-1962)](The_Chicago_Area_Transportation_Study_Creating_the_First_Plan_1955_1962_) | Patrick Singleton | Patrick 01/09/2020 | |
-| [Toward a dynamic model of individual activity pattern formulation](Toward_a_dynamic_model_of_individual_activity_pattern_formulation) | | | |
+| [Toward a dynamic model of individual activity pattern formulation](Toward_a_dynamic_model_of_individual_activity_pattern_formulation) | Aruna Sivakumar | | |
 | [Traveler Behavior and Values Research for Human-Centered Transportation Systems](Traveler_Behavior_and_Values_Research_for_Human_Centered_Transportation_Systems) | Matt Stratton | Matt 1/7/2020 | |
 | **Pricing And Valuation:** | --- | --- | --- |
 | [Pricing and Travel Time Reliability Enhancements in the SANDAG Activity-Based Travel Model: Final Report](Pricing_and_Travel_Time_Reliability_Enhancements_in_the_SANDAG_Activity_Based_Travel_Model_Final_Report) | | | |
@@ -288,7 +288,7 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Twin Cities HOV Study - Final Report](Twin_Cities_HOV_Study_Final_Report) | | | |
 | [Washington State Comprehensive Tolling Study Volume 1 Final Report](Washington_State_Comprehensive_Tolling_Study_Volume_1_Final_Report) | | | |
 | **Resources:** | --- | --- | --- |
-| [Activity-Travel Behaviour Research: Conceptual Issues, State of the Art, and Emerging Perspectives on Behavioural Analysis and Simulation Modelling](Activity_Travel_Behaviour_Research_Conceptual_Issues_State_of_the_Art_and_Emerging_Perspectives_on_Behavioural_Analysis_and_Simulation_Modelling) | | | |
+| [Activity-Travel Behaviour Research: Conceptual Issues, State of the Art, and Emerging Perspectives on Behavioural Analysis and Simulation Modelling](Activity_Travel_Behaviour_Research_Conceptual_Issues_State_of_the_Art_and_Emerging_Perspectives_on_Behavioural_Analysis_and_Simulation_Modelling) | Aruna Sivakumar | | |
 | [Bridge and Tunnel Toll Elasticities in New York](Bridge_and_Tunnel_Toll_Elasticities_in_New_York) | | | |
 | [Changes in Travel Behavior/Demand Associated with Managed Lanes](Changes_in_Travel_Behavior_Demand_Associated_with_Managed_Lanes) | | | |
 | [Development of a New Toll Mode-Choice Modeling System for Florida's Turnpike Enterprise](Development_of_a_New_Toll_Mode_Choice_Modeling_System_for_Florida's_Turnpike_Enterprise) | | | |
@@ -306,7 +306,7 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Papers](Papers) | | | |
 | [Peer Review - Southern California Association of Governments (SCAG) - Meeting 1](Peer_Review_Southern_California_Association_of_Governments_(SCAG)_Meeting_1) | | | |
 | [Presentations](Presentations) | | | |
-| [Propositions for Modeling household decision-making](Propositions_for_Modeling_household_decision_making) | | | |
+| [Propositions for Modeling household decision-making](Propositions_for_Modeling_household_decision_making) | Aruna Sivakumar | | |
 | [Reports](Reports) | | | |
 | [SR 288-Metropolitan Travel Forecasting Current Practice and Future Direction](SR_288_Metropolitan_Travel_Forecasting_Current_Practice_and_Future_Direction) | | | |
 | [TCRP Report 95: Chapter 12 – Transit Pricing and Fares: Traveler Response to Transportation System Changes](TCRP_Report_95_Chapter_12_Transit_Pricing_and_Fares_Traveler_Response_to_Transportation_System_Changes) | | | |
@@ -339,7 +339,7 @@ Below is a list of all pages that belong to this wiki. If the link to the page i
 | [Dynamic network models](Dynamic_network_models) | Eric Pihl | | |
 | [Evaluation and performance](Evaluation_and_performance) | Eric Pihl | | |
 | [Innovations in Travel Modeling](Innovations_in_Travel_Modeling) |Julie Dunbar |JD1/9/20 |still needs work - links to presentations for 2018 and 2016 are broken and 2014 and 2012 are missing from trb.org|
-| [Model calibration and validation](Model_calibration_and_validation) | | | |
+| [Model calibration and validation](Model_calibration_and_validation) |Aruna Sivakumar | | |
 | [Model integration](Model_integration) | | | |
 | [Travel surveys](Travel_surveys) | Chiara Calastri | 16 Dec. 2019 | Page incomplete |
 | **Transportation Networks:** | --- | --- | --- |
